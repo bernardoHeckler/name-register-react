@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://bernardoHeckler.github.io//name-register-react/login",
+  "homepage": "https://bernardoHeckler.github.io/name-register-react/login",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
