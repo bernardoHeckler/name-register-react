@@ -1,0 +1,30 @@
+#custom-button-exibir {
+  background-color: #4d6bfe;
+  color: #fff;
+  border: 1px solid #4d6bfe;
+  padding: 8px 32px;
+  border-radius: 20px;
+  font-size: larger;
+  transition: 0.5s;
+}
+
+#custom-button-limpar {
+  background-color: #fff;
+  color: #4d6bfe;
+  border: 1px solid #4d6bfe;
+  padding: 8px 24px;
+  border-radius: 20px;
+  font-size: larger;
+  transition: 0.5s;
+}
+#custom-button-limpar:hover {
+  background-color: #4d6bfe;
+  color: #fff;
+  transition: 0.5s;
+}
+#custom-button-exibir:hover {
+  background-color: #fff;
+  color: #4d6bfe;
+  border: 1px solid #4d6bfe;
+  transition: 0.5s;
+}

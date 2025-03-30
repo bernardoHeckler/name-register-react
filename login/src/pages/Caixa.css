@@ -1,0 +1,48 @@
+.container-caixa{
+    background-color: #FDFEFF;
+    border: 1px solid #000000;
+    padding: 16px;
+    border-radius: 16px;
+    color: #5a6a7f;
+    width: 500px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 8px;
+}
+.textTop{
+    color: #4D6BFE;
+    font-weight: 900;
+    text-transform: initial;
+    text-align: center;
+}
+span.alerta{
+    color: #ff00009e;
+    background-color: #ff00001a;
+    padding: 0 16px;
+    border-radius: 8px;
+}
+
+.container-btns-option{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.container-inputs{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 90%;
+    height: auto;
+}
+.success-message{
+    color: #06ad00;
+    background-color: #a0eca2ce;
+    padding: 16px;
+    border-radius: 16px;
+    text-align: center;
+}
