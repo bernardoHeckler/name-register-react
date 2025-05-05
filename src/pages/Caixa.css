@@ -4,7 +4,8 @@
     padding: 16px;
     border-radius: 16px;
     color: #5a6a7f;
-    width: 500px;
+    width: 35%;
+    min-width: 390px;
     height: auto;
     display: flex;
     flex-direction: column;
